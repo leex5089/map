@@ -8,3 +8,5 @@ items:
     url: "#"
   - text: Blog
     url: "/blog"
+  - text: map 
+    url: /posts/HD_map_draft.html 
